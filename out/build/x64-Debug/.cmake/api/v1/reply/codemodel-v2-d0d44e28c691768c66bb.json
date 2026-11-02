@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ir_external_indexing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "build_dynamic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build_dynamic-Debug-c52ad0066f3fc66d6036.json",
+					"name" : "build_dynamic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gen_corpus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gen_corpus-Debug-d93c4128717152bb3249.json",
+					"name" : "gen_corpus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "irindex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-irindex-Debug-70eff75b66fd9cfe48da.json",
+					"name" : "irindex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lookup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lookup-Debug-01d16ce1d656466ee3b1.json",
+					"name" : "lookup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_main-Debug-356079b533e944990c9d.json",
+					"name" : "test_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "verify::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-verify-Debug-55e8dd9142dc576ef171.json",
+					"name" : "verify",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug",
+		"source" : "C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

@@ -1,0 +1,8 @@
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/irindex.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/build_dynamic.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/lookup.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/verify.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/gen_corpus.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/test_main.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\MAHMOUD\DOWNLOADS\IR-LOGMERGE-STARTER\IR-LOGMERGE-STARTER\BUILD\CMAKEFILES\629543E0D952181F37700E8D6EE0CC3D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter -BC:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/build/ir_external_indexing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

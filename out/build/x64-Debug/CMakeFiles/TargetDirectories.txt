@@ -1,0 +1,8 @@
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/irindex.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/build_dynamic.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/lookup.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/verify.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/gen_corpus.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/test_main.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Mahmoud/Downloads/ir-logmerge-starter/ir-logmerge-starter/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

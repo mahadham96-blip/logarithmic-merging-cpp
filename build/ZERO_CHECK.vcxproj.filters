@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mahmoud\Downloads\ir-logmerge-starter\ir-logmerge-starter\build\CMakeFiles\629543e0d952181f37700e8d6ee0cc3d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50A1A239-624D-3E1B-B4C3-1C4A4F57C7B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
